@@ -1,0 +1,4 @@
+CREATE PROCEDURE compras()
+BEGIN SELECT COUNT (*) FROM extrato; 
+END
+CALL compras;
