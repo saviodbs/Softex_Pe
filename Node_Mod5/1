@@ -1,0 +1,3 @@
+Para criar um projeto em Node.js usando o npm (Gerenciador de Pacotes do Node), você pode criar uma pasta, acessá-la, inicializar o npm com o comando "npm init", 
+e instalar as dependências do projeto com o comando "npm install" seguido do nome da dependência. 
+Por exemplo, "npm install express" para instalar o Express, um framework popular para criação de aplicações web em Node.js.
