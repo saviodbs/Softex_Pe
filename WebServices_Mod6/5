@@ -7,7 +7,6 @@ Exemplo de chamada:
 bashCopy code
 POST /livros Corpo da requisição: {"nome": "O Senhor dos Anéis", "autor": "J.R.R. Tolkien", "isbn": "9788533613367"} 
 
-2.	Leitura de um livro:
 •	Método: GET
 •	Rota: /livros/{id}
 •	Parâmetros: id = ID do livro a ser lido.
